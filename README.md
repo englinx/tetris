@@ -1,38 +1,7 @@
 # tetris
 Proyecto de tetris para los cursos de Ingeniería de Software y pruebas, verificación y validación
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>API (BlockChain)</title>
-<style type="text/css">
-body,td,th {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	color: #000;
-}
-.www {
-	color: #F00;
-}
-.azul {
-	color: #00C;
-}
-.verde {
-	color: #0F0;
-}
-.blanco {
-	color: #FFF;
-	text-align: center;
-}
-.Negrito {
-	text-align: center;
-}
-</style>
-</head>
 
-<body>
-<p>&nbsp;</p>
 <table width="1045" border="0" align="center">
   <tr>
     <td bgcolor="#003399" class="blanco">BLOCKCHAIN</td>
@@ -333,19 +302,4 @@ Carpeta Web_Service:<br />
     </p></td>
   </tr>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>   <br />
-</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</body>
-</html>
+
